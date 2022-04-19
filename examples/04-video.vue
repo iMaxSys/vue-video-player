@@ -44,7 +44,7 @@
           sources: [{
             withCredentials: false,
             type: "application/x-mpegURL",
-            src: "https://logos-channel.scaleengine.net/logos-channel/live/biblescreen-ad-free/playlist.m3u8"
+            src: "https://open.ys7.com/v3/openlive/J58169580_1_2.m3u8?expire=1681445357&id=436498523318386688&t=8b46942c590a3283eacef07406537a4b95cdb7d7f6b202194e6b505327bf3946&ev=100"
           }],
           controlBar: {
             timeDivider: false,
